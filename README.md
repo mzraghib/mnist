@@ -2,4 +2,4 @@
 mnist tutorial
 
 
-Refer to mnist_tutorial+dic_v1.pdf for instructions
+Refer to mnist_tutorial_doc_v1.pdf for instructions
