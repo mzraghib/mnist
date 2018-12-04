@@ -1,3 +1,5 @@
 #!/bin/bash
 
-python3 /dbc/code/mnist.py
+apt-get -y install python3-pip
+pip3 install keras==2.1.6
+python3 /dbc/code/train_keras.py
